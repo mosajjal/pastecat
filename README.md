@@ -1,3 +1,5 @@
+# NOTE: NOT AN ACTIVE FORK!!! SEE THE ORIGINAL REPO
+
 # pastecat
 Server Side Script For Using `nc` To Paste The Output On A Pastebin
 
